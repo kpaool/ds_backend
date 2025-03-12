@@ -1,0 +1,10 @@
+pandas
+numpy
+pytz
+ipykernel
+requests
+Jinja2
+fastapi 
+uvicorn
+websockets
+supabase
